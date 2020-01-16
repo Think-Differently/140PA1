@@ -197,7 +197,9 @@ for number in range(a,-1,-1):
     sleep(1)
     print(number)
 
-
+git add .
+git commit -m '<some meaningful commit message>'
+git push origin master
 
 
 
