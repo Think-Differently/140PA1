@@ -198,21 +198,9 @@ for number in range(a,-1,-1):
     print(number)
 
 
-# In[ ]:
 
 
-from time import sleep  # import just the sleep module from the time library
-sleep(1)
 
-
-# In[ ]:
-
-
-import time
-time.sleep(1)
-
-
-# In[ ]:
 
 
 
